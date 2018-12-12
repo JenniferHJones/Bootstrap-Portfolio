@@ -1,0 +1,27 @@
+body {
+    position: relative;
+}
+
+h2 {
+    margin-top: 40px;
+}
+.main {
+    float: left;
+    margin-bottom: 40px;
+    line-height: 2em;
+}
+
+img {
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    background-color: dodgerblue;
+}

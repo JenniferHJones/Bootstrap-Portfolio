@@ -1,20 +1,30 @@
 body {
     position: relative;
+    background-image: url(../images/regal.png);
+    background-repeat: repeat;
+    width: 100%;
+    height: 100vh;
 }
 
 h2 {
     margin-top: 40px;
 }
+
 .main {
     float: left;
     margin-bottom: 40px;
     line-height: 2em;
 }
 
-img {
+.main img {
     float: left;
     width: 300px;
     margin-right: 15px;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 50px;
 }
 
 footer {
